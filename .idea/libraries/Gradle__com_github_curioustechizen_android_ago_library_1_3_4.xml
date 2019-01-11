@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.curioustechizen.android-ago:library-1.3.4">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.3.4.aar/8fa3476659c117fad961a22145070d4a/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/library-1.3.4.aar/8fa3476659c117fad961a22145070d4a/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.curioustechizen.android-ago/library/1.3.4/e4d1353a12a0afdccbe431997ef7c677766d128a/library-1.3.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
